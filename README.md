@@ -1,7 +1,9 @@
 我会啥？<br>
+🐱Scratch：包会的(太简单了)<br>
 🐍Python：会简单的<br>
 📕HTML：会基本的<br>
 🔑JavaScript：会一点但不多<br>
+🚩JSON：会一点但写不上来<br>
 📜MarkDown：包会的<br>
 🐘PHP：包不会的<br>
 ☕Java：也不会<br>

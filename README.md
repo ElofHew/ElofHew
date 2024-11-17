@@ -2,6 +2,7 @@
 🐱Scratch：包会的(太简单了)<br>
 🐍Python：会基本的<br>
 📕HTML：会大部分<br>
+🎛️CSS：会大部分<br>
 🔑JavaScript：会一点但不多<br>
 📜MarkDown：包会的<br>
 🐘PHP：包不会的<br>

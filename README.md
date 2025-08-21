@@ -40,11 +40,11 @@
 | --- | --- | --- | --- | --- |
 | **Brand** | Biostar B85MG | Lenovo XiaoXin Pro 16 | Redmi Note 4X | HONOR X10 Max |
 | **CPU** | Intel i3-4150 | Intel i5-11300H | Qualcomm Snapdragon 625 | MediaTek Dimensity 800 |
-| **GPU** | Intel HD Graphics 4400 <br> NVIDIA GeForce GT 740 | Intel Iris Xe Graphics <br> NVIDIA GeForce MX450 | Qualcomm Adreno 506 | Arm Mali-G57 MC4 |
+| **GPU** | Intel HD Graphics 4400 | Intel Iris Xe Graphics <br> NVIDIA GeForce MX450 | Qualcomm Adreno 506 | Arm Mali-G57 MC4 |
 | **RAM** | 16GB DDR3 | 16GB DDR4 | 3GB LPDDR3 | 8GB LPDDR4x |
 | **Storage** | 128GB SSD <br> 1TB HDD | 512GB SSD | 32GB eMMC | 128GB UFS2.1 |
 | **Display** | 21.5-inch, 1920x1080@60Hz | 15.6-inch, 2560x1600@60Hz | 5.5-inch, 1080x1920@60Hz | 7.1-inch, 1080x2280@60Hz |
-| **OS** | Windows 10 Pro 22H2 <br> Ubuntu 24.04 LTS | Windows 10 Pro 22H2 <br> WSL2 (Ubuntu 24.04 LTS) | DotOS 5.2.1 (Android 11) | HarmonyOS 3.0 (Android 10) |
+| **OS** | Windows 10 Enterprise LTSC 2021 | Windows 10 Professional 22H2 <br> WSL2 (Ubuntu 24.04 LTS) | DotOS 5.2.1 (Android 11) | HarmonyOS 3.0 (Android 10) |
 
 # My Social Media Profiles
 

@@ -9,7 +9,7 @@
 
 ## Oak Studio
 
-:link: [Official Website](https://os.drevan.xyz/)
+:link: [Official Website](https://os.danevan.top/)
 
 ### Projects
 
@@ -17,6 +17,10 @@
 - [`Leaf Boot Manager`](https://github.com/ElofHew/LBM) - Leaf Boot Manager for Quarter OS
 - [`KomFetch`](https://github.com/ElofHew/komfetch) - A System Information Fetcher for Quarter OS
 - [`Quarter OS Development Tools`](https://github.com/ElofHew/QOS-DevTools) - Development Tools for Quarter OS
+
+## Personal Projects
+
+- [`Random Call Tool`](https://github.com/ElofHew/RandomCallTool) - A Random Call App based on Python 3 & Tkinter
 
 ---
 
@@ -44,7 +48,7 @@
 | **RAM** | 16GB DDR3 | 16GB DDR4 | 3GB LPDDR3 | 8GB LPDDR4x |
 | **Storage** | 128GB SSD <br> 1TB HDD | 512GB SSD | 32GB eMMC | 128GB UFS2.1 |
 | **Display** | 21.5-inch, 1920x1080@60Hz | 15.6-inch, 2560x1600@60Hz | 5.5-inch, 1080x1920@60Hz | 7.1-inch, 1080x2280@60Hz |
-| **OS** | Windows 10 Enterprise LTSC 2021 | Windows 10 Professional 22H2 <br> WSL2 (Ubuntu 24.04 LTS) | DotOS 5.2.1 (Android 11) | HarmonyOS 3.0 (Android 10) |
+| **OS** | Windows 11 Enterprise LTSC 2024 | Windows 10 Professional 22H2 <br> Ubuntu 24.04 LTS Noble | DotOS 5.2.1 (Android 11) | HarmonyOS 3.0 (Android 10) |
 
 # My Social Media Profiles
 
@@ -53,7 +57,7 @@
 | <img src="icon/bz.svg" width="64"><h2>Bilibili</h2> | <img src="icon/ks.svg" width="64"><h2>Kuaishou</h2> | <img src="icon/wb.svg" width="64"><h2>Weibo</h2> |
 | [@Dan_Evan](https://space.bilibili.com/642688364)<br />(UID: 642688364) | [@Dan_Evan](https://www.kuaishou.com/profile/3x6yxaiw2juf8sq)<br />(ID: Clever1131) | [@Dan_Evan](https://weibo.com/danevan)<br />(ID: 56645190017) |
 | <img src="icon/qq.svg" width="64"><h2>QQ</h2> | <img src="icon/tg.svg" width="64"><h2>Telegram</h2> | <img src="icon/ws.png" width="64"><h2>Website</h2> |
-| [Dr.Evan.](https://qm.qq.com/q/BPdpfotZgQ)<br />(2352235176) | [ElofHew](https://t.me/ElofHew)<br />(ID: ElofHew) | [www.drevan.xyz](https://www.drevan.xyz)<br />(Domain: drevan.xyz) |
+| [Dr.Evan.](https://qm.qq.com/q/BPdpfotZgQ)<br />(2352235176) | [ElofHew](https://t.me/ElofHew)<br />(ID: ElofHew) | [www.danevan.top](https://www.danevan.top)<br />(Domain: danevan.top) |
 
 # My Contact Profiles
 
@@ -65,4 +69,4 @@
 
 ---
 
-**(2025-07-29)**
+**(2026-01-17)**

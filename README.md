@@ -1,33 +1,31 @@
 `ElofHew's GitHub Profile`
 
-# My GitHub Stats
+# GitHub Stats
 
 | <a href="https://github.com/ElofHew"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ElofHew&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" title="ElofHew's github stats" alt="ElofHew's github stats" /></a> | <a href="https://github.com/ElofHew"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElofHew&layout=compact&theme=buefy&hide_border=true" title="ElofHew's top languages" alt="ElofHew's top languages" /></a> |
 | --- | --- |
 
-# My Personal Studio
-
-## Oak Studio
+# Oak Studio
 
 :link: [Official Website](https://os.danevan.top/)
 
-### Projects
+## Projects
 
 - [`Quarter OS`](https://github.com/ElofHew/QOS) *(Archived)* - A Professional Fake-OS Powered by Python3.
 - [`Leaf Boot Manager`](https://github.com/ElofHew/LBM) - Leaf Boot Manager for Quarter OS.
 - [`KomFetch`](https://github.com/ElofHew/komfetch) - A System Information Fetcher for Quarter OS.
 - [`Quarter OS Development Tools`](https://github.com/ElofHew/QOS-DevTools) - Development Tools for Quarter OS.
 
-# My Personal Projects
+# Personal Projects
 
 - [`DE_numguess`](https://github.com/ElofHew/DE_numguess) - A Number Guessing Game Based on Python3.
-- [`RandomCallTool`](https://github.com/ElofHew/RandomCallTool) - A Random Call Tool Based on Python3 + Tkinter.
+- [`RandomCallTool`](https://github.com/ElofHew/RandomCallTool) - A Random Call Application Based on Python3 + Tkinter.
 
-# My Developement Profile
+# Developement Profile
 
 **Languages and Frameworks**
 
-[![Langs and Frames](https://skillicons.dev/icons?i=html,css,js,py,md&theme=dark)](https://skillicons.dev)
+[![Langs and Frames](https://skillicons.dev/icons?i=html,css,js,py,cpp,md&theme=dark)](https://skillicons.dev)
 
 **Development Environment**
 
@@ -37,7 +35,7 @@
 
 [![Other Tools](https://skillicons.dev/icons?i=ps,pr,au,git,github,obsidian&theme=dark)](https://skillicons.dev)
 
-# My Development Devices
+# Development Devices
 
 | | 🖥 PC | 💻 Laptop | 📱 Phone | 📱 Phone |
 | --- | --- | --- | --- | --- |
@@ -49,7 +47,7 @@
 | **Display** | 19-inch, 1440x900@60Hz | 15.6-inch, 2560x1600@60Hz | 5.5-inch, 1080x1920@60Hz | 7.1-inch, 1080x2280@60Hz |
 | **OS** | Windows 11 Enterprise LTSC 2024 <br> Debian 13.5 Trixie | Windows 10 Pro 22H2 <br> Ubuntu 26.04 Resolute Raccoon | DotOS 5.2.1 (Android 11) | HarmonyOS 3.0 (Android 10) |
 
-# My Social Media Profiles
+# Social Media Profiles
 
 | 1 | 2 | 3 |
 | --- | --- | --- |
@@ -58,9 +56,9 @@
 | <img src="icon/qq.svg" width="64"><h2>QQ</h2> | <img src="icon/tg.svg" width="64"><h2>Telegram</h2> | <img src="icon/ws.png" width="64"><h2>Website</h2> |
 | [Dr.Evan.](https://qm.qq.com/q/BPdpfotZgQ)<br />(2352235176) | [ElofHew](https://t.me/ElofHew)<br />(ID: ElofHew) | [www.danevan.top](https://www.danevan.top/)<br />(Domain: danevan.top) |
 
-# My Contact Profiles
+# Contact Profiles
 
-### Emails
+## Emails
 
 - [2352235176@qq.com](mailto:2352235176@qq.com)
 - [dan_evan233@outlook.com](mailto:dan_evan233@outlook.com)
@@ -68,4 +66,4 @@
 
 ---
 
-**(2026-06-09)**
+**(2026-07-20)**

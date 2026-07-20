@@ -27,15 +27,15 @@
 
 **Languages and Frameworks**
 
-[![Langs and Frames](https://skillicons.dev/icons?i=html,css,js,py,md,c,cpp,java&theme=dark)](https://skillicons.dev)
+[![Langs and Frames](https://skillicons.dev/icons?i=html,css,js,py,md&theme=dark)](https://skillicons.dev)
 
 **Development Environment**
 
-[![Dev Environment](https://skillicons.dev/icons?i=windows,powershell,linux,bash,ubuntu,vscode,visualstudio,idea&theme=dark)](https://skillicons.dev)
+[![Dev Environment](https://skillicons.dev/icons?i=windows,powershell,linux,bash,ubuntu,vscode&theme=dark)](https://skillicons.dev)
 
 **Other Tools**
 
-[![Other Tools](https://skillicons.dev/icons?i=ps,pr,au,git,github,obsidian,&theme=dark)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=ps,pr,au,git,github,obsidian&theme=dark)](https://skillicons.dev)
 
 # My Development Devices
 
@@ -47,7 +47,7 @@
 | **RAM** | 16GB DDR3 | 16GB DDR4 | 3GB LPDDR3 | 8GB LPDDR4x |
 | **Storage** | 128GB SSD <br> 320GB HDD | 512GB SSD <br> 1TB HDD (External) | 32GB eMMC | 128GB UFS2.1 |
 | **Display** | 19-inch, 1440x900@60Hz | 15.6-inch, 2560x1600@60Hz | 5.5-inch, 1080x1920@60Hz | 7.1-inch, 1080x2280@60Hz |
-| **OS** | Windows 11 Enterprise LTSC 2021 <br> Debian 13.5 Trixie | Windows 10 Pro 22H2 <br> Ubuntu 26.04 Resolute Raccoon | DotOS 5.2.1 (Android 11) | HarmonyOS 3.0 (Android 10) |
+| **OS** | Windows 11 Enterprise LTSC 2024 <br> Debian 13.5 Trixie | Windows 10 Pro 22H2 <br> Ubuntu 26.04 Resolute Raccoon | DotOS 5.2.1 (Android 11) | HarmonyOS 3.0 (Android 10) |
 
 # My Social Media Profiles
 
@@ -68,4 +68,4 @@
 
 ---
 
-**(2025-07-29)**
+**(2026-06-09)**
